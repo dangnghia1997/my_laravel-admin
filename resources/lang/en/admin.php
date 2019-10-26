@@ -104,4 +104,5 @@ return [
     'prev'                   => 'Prev',
     'next'                   => 'Next',
     'quick_create'           => 'Quick create',
+    'hidden'                 => 'Hiện thị'
 ];
